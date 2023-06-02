@@ -5,7 +5,7 @@
 
 <p align="left">  </p>
 
-- 🌱 I’m currently learning **BSc.Computer Science at University of Westminster**
+- 🌱 I’m currently learning **BEng.Software Engineering at University of Westminster**
 
 - 💬 Ask me about **JAVA,PYTHON ,Android**
 
