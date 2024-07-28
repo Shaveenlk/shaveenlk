@@ -5,13 +5,11 @@
 
 <p align="left">  </p>
 
-- 🌱 I’m currently learning **BEng.Software Engineering at University of Westminster**
+- 🌱 I’m currently learning **BSc. Computer Science at University of Westminster**
 
 - 💬 Ask me about **JAVA,PYTHON ,Android**
 
 - 📫 How to reach me **shaveendesilva2001@gmail.com**
-
-- ⚡ Fun fact **I Think I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
